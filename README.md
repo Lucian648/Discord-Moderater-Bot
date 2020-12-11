@@ -59,6 +59,8 @@ This is now where you install vscode. -------> https://code.visualstudio.com/dow
 After the installation run this command in your terminal ----> npm i discord.js --save. The responce is ---->npm notice created a lockfile as package-lock.json. You should commit this file.
 + discord.js@12.5.1
 updated 1 package and audited 15 packages in 7.068s
-found 0 vulnerabilities  IF IT SAYS WARN THEN THAT MEANS IT WILL STILL WORK. DONT THINK IT SHOULDN'T SAY THAT
+found 0 vulnerabilities  IF IT SAYS WARN THEN THAT MEANS IT WILL STILL WORK. DONT THINK IT SHOULDN'T SAY THAT.
 
-Afther that run this command ----> code . then visual  studio code will open up you should see something like this -----> 
+Afther that run this command ----> code . then visual  studio code will open up you should see something like this -----> http://github-discord-mod-bot.rf.gd/?i=1
+
+GET THE CODE FROM INDEX.JS AND CONFIG.JSON
