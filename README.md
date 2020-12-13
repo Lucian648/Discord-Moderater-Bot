@@ -63,4 +63,4 @@ found 0 vulnerabilities  IF IT SAYS WARN THEN THAT MEANS IT WILL STILL WORK. DON
 
 Afther that run this command ----> code . then visual  studio code will open up you should see something like this -----> http://github-discord-mod-bot.rf.gd/?i=1
 
-GET THE CODE FROM INDEX.JS AND CONFIG.JSON
+GET THE CODE FROM INDEX.JS AND CONFIG.JSON ETC....
