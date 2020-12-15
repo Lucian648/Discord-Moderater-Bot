@@ -28,4 +28,4 @@ client.on('message', message =>{
 
 client.login(token);
 
-//To run your bot run this command "node index.js"
+//To run your bot run this command "node index.js to host a bot free go to this link https://github.com/Lucian648/Discord-Moderater-Bot/blob/main/Host%20bot%2024%5C7%20*FREE*"
